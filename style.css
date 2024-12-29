@@ -229,7 +229,7 @@ nav ul li a:hover {
     font-family: "Lato", serif;
     font-weight: 300;
     font-style: normal;
-    height: 100vh;
+    height: auto;
 }
 
 .content2-section2 {
