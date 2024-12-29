@@ -37,7 +37,7 @@ body {
     background-color: black;
     height: 100vh;
     width: 100%;
-    max-width: 400px;
+    max-width: 450px;
     overflow-y: hidden;
 }
 
@@ -62,7 +62,7 @@ body {
     display: none;
     flex-direction: column;
     width: 100%;
-    max-width: 400px;
+    max-width: 450px;
 }
 
 .nikahfix_logo {
@@ -375,6 +375,11 @@ nav ul li a:hover {
 }
 
 .foto-catin {
+    width: 100%;
+    height: auto;
+}
+
+.foto-catin1 {
     width: 100%;
     height: auto;
 }
